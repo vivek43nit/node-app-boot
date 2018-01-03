@@ -1,0 +1,37 @@
+{
+    "author": {
+        "name": "Vivek Kumar",
+        "email": "vivek43nit@gmail.com"
+    },
+    "bugs": {
+        "url": "https://github.com/vivek43nit/app-manager/issues"
+    },
+    "dependencies": {
+        "debug": "~0.7.2"
+    },
+    "name": "app-manager",
+    "version": "1.0.0",
+    "description": "A app manager for node js to easily start coding and manage your different segment of code very easily",
+    "directories": {},
+    "homepage": "https://github.com/vivek43nit/app-manager#readme",
+    "keywords": [
+        "app-manager", "manager", "node-boot"
+    ],
+    "license": "MIT",
+    "main": "lib/AppManager.js",
+    "optionalDependencies": {},
+    "maintainers": [
+        {
+          "name": "Vivek Kumar",
+          "email": "vivek43nit@gmail.com"
+        }
+    ],
+    "readme": "ERROR: No README data found!",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/vivek43nit/app-manager.git"
+    },
+    "scripts": {
+        "test": "node test/main.js"
+    }
+}
