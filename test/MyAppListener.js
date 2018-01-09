@@ -1,4 +1,4 @@
-var AppListener = require('../lib/AppListener');
+var AppListener = require('../lib/AppManager').AppListener;
 var util = require('util');
 
 util.inherits(MyAppListener, AppListener);
@@ -8,6 +8,7 @@ function MyAppListener(){
 
 MyAppListener.prototype.onStart = function(next){
     console.log("My App Start ");
+    console.log(this);
     next();
 };
 
