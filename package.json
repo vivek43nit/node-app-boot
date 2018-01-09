@@ -16,9 +16,12 @@
   "homepage": "https://github.com/vivek43nit/node-app-boot#readme",
   "keywords": [
     "app-manager",
+    "app manager",
+    "node app manager",
     "manager",
     "node-boot",
-    "node-app-boot"
+    "node-app-boot",
+    "node app boot"
   ],
   "license": "MIT",
   "main": "lib/AppManager.js",
