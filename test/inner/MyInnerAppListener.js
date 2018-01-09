@@ -1,4 +1,4 @@
-var AppListener = require('../../lib/AppListener');
+var AppListener = require('../../lib/AppManager').AppListener;
 var util = require('util');
 
 util.inherits(MyInnerAppListener, AppListener);
