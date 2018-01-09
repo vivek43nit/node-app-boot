@@ -10,7 +10,7 @@
     "debug": "~0.7.2"
   },
   "name": "node-app-boot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A app manager for node js to easily start coding and manage your different segment of code very easily",
   "directories": {},
   "homepage": "https://github.com/vivek43nit/node-app-boot#readme",
